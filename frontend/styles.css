@@ -1,9 +1,10 @@
-h1{
-    color:blueviolet;
-}
 /* selector {
  property : value
 } */
+
+h1{
+ color : red;
+}
 
 .card{
  border-style: solid;
